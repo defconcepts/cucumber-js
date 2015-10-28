@@ -86,6 +86,7 @@
     "node": ">=0.10"
   },
   "dependencies": {
+    "base-64": "^0.1.0",
     "cli-table": "^0.3.1",
     "colors": "1.1.2",
     "commander": "^2.9.0",
